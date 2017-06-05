@@ -1,0 +1,5 @@
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\WebApiTeste\BLL\bin\Debug\BLL.dll
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\WebApiTeste\BLL\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\WebApiTeste\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\WebApiTeste\BLL\obj\Debug\BLL.dll
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\WebApiTeste\BLL\obj\Debug\BLL.pdb
